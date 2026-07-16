@@ -1,4 +1,4 @@
-# MecchaVertex
+# MecchaVertex 2.0
 <div align="center">
 
 <img width="1920" height="1080" alt="cover (8)" src="https://github.com/user-attachments/assets/8487689f-58ec-46ff-af80-2cba78638070" />
